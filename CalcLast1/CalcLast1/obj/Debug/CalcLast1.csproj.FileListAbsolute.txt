@@ -1,0 +1,10 @@
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\obj\Debug\CalcLast1.csprojAssemblyReference.cache
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\obj\Debug\CalcLast1.Form1.resources
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\obj\Debug\CalcLast1.Properties.Resources.resources
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\obj\Debug\CalcLast1.csproj.GenerateResource.cache
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\obj\Debug\CalcLast1.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\bin\Debug\CalcLast1.exe.config
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\bin\Debug\CalcLast1.exe
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\bin\Debug\CalcLast1.pdb
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\obj\Debug\CalcLast1.exe
+C:\Users\Ruslan\source\repos\CalcLast1\CalcLast1\obj\Debug\CalcLast1.pdb
